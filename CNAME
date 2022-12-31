@@ -1,8 +1,1 @@
-id: 14347
-opcode: QUERY
-status: NOERROR
-flags: QR RD RA CD
-;; QUESTION SECTION:
-;www.institutogestacionsantocristo.com. IN CNAME
-;; ANSWER SECTION:
-www.institutogestacionsantocristo.com. 3600 IN CNAME crystalline-antelope-s93zq8905x81ul9bo7dx6q1v.herokudns.com.
+www.institutogestacionsantocristo.com
