@@ -1,4 +1,1 @@
-=== institutosantocristo Custom Domains
-Domain Name                           DNS Record Type DNS Target                                                     SNI Endpoint
-josecarlos1933.github.io              CNAME           boiling-capybara-pk0afe75udep867rvtp0taq9.herokudns.com        undefined
-www.institutogestacionsantocristo.com CNAME           quantitative-silverfish-phogg9mv26on32n7902x9wkb.herokudns.com undefined
+www.institutogestacionsantocristo.com
